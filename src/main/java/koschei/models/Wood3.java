@@ -18,3 +18,4 @@ public class Wood3 {
         return ", на дереве заяц " + rabbit.toString();
     }
 }
+// Wood3 связано с Rabbit4 через конструктор с аннотацией @Autowired

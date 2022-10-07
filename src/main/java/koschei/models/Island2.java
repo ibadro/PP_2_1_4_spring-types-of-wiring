@@ -13,3 +13,5 @@ public class Island2 {
         return ", на острове дерево " + wood.toString();
     }
 }
+// Island2 связан с Wood3 через конструктор
+// Аннотация не требуется, т.к. бин конструируется в классе AppConfig.
